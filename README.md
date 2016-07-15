@@ -40,7 +40,7 @@ learning Gaussian Mixture Model Using Expectation Maximaization algorithm
 ![example1](Figures/learnGaussianMixtureModelUsingExpectationMaximaization.png)
 
 
-linear Regression (MultipleFeatures)
+linear Regression (Multiple Features)
 ---------------------
 ![example1](Figures/linearRegressionMultipleFeatures.png)
 
