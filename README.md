@@ -6,11 +6,11 @@ Linear SVM
 ---------------------
 ![example1](Figures/LinearSVMUsingCVX.png)
 
-gaussian Process
+Gaussian Process
 ---------------------
 ![example1](Figures/Gaussian process.png)
 
-linear Regression (Multiple Features)
+Linear Regression (Multiple Features)
 ---------------------
 ![example1](Figures/linearRegressionMultipleFeatures.png)
 
@@ -18,12 +18,12 @@ Gaussian kernel
 ---------------------
 ![example1](Figures/Gaussian kernel.png)
 
-linear classifier
+Linear classifier
 ---------------------
 ![example1](Figures/discriminantFunction.png)
 
 
-learning Gaussian Mixture Model Using Expectation Maximaization algorithm
+Learning Gaussian Mixture Model Using Expectation Maximaization algorithm
 ---------------------
 ![example1](Figures/learnGaussianMixtureModelUsingExpectationMaximaization.png)
 
