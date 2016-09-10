@@ -27,6 +27,10 @@ Learning Gaussian Mixture Model Using Expectation Maximaization algorithm
 ---------------------
 ![example1](Figures/learnGaussianMixtureModelUsingExpectationMaximaization.png)
 
+K-means
+---------------------
+![example1](Figures/Kmeans.png)
+
 
 ICA
 ---------------------
