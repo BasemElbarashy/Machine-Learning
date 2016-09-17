@@ -10,10 +10,6 @@ Gaussian Process
 ---------------------
 ![example1](Figures/Gaussian process.png)
 
-Linear Regression (Multiple Features)
----------------------
-![example1](Figures/linearRegressionMultipleFeatures.png)
-
 Gaussian kernel
 ---------------------
 ![example1](Figures/Gaussian kernel.png)
