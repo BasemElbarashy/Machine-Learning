@@ -1,6 +1,6 @@
 Linear Regression
 ---------------------
-![example1](Figures/linear regression.png)
+![example1](Figures/linear_regression.png)
 
 Linear SVM
 ---------------------
@@ -8,11 +8,11 @@ Linear SVM
 
 Gaussian Process
 ---------------------
-![example1](Figures/Gaussian process.png)
+![example1](Figures/Gaussian_process.png)
 
 Gaussian kernel
 ---------------------
-![example1](Figures/Gaussian kernel.png)
+![example1](Figures/Gaussian_kernel.png)
 
 Linear classifier
 ---------------------
@@ -30,9 +30,9 @@ K-means
 
 ICA
 ---------------------
-![example1](Figures/ICA code output.png)
+![example1](Figures/ICA_code_output.png)
 
 
 Density estimation
 ---------------------
-![example1](Figures/Density estimation.png)
+![example1](Figures/Density_estimation.png)
